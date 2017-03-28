@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top:    @jumbotron-padding;
+  padding-bottom: @jumbotron-padding;
+  margin-bottom: @jumbotron-padding;
+  color: @jumbotron-color;
+background-image: url(images/couple.jpg);
+
+
+img.aligncenter{
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+
+}
